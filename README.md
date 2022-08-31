@@ -7,12 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-TypeScript   19 hrs 35 mins  ████████████████▓░░░░░░░░   66.55 %
-JSX          8 hrs 1 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.27 %
-JavaScript   0 hrs 51 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.87 %
-SCSS         0 hrs 33 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-unknown      0 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 %
-JSON         0 hrs 9 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript   20 hrs 2 mins   █████████████████░░░░░░░░   67.71 %
+JSX          7 hrs 47 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.29 %
+JavaScript   0 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+SCSS         0 hrs 29 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
+unknown      0 hrs 11 mins   ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+GraphQL      0 hrs 6 mins    ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
