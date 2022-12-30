@@ -7,7 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-TSX   0 hrs 4 mins    █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
