@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Terraform    5 hrs 51 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.33 %
-JavaScript   4 hrs 22 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.93 %
-Go           2 hrs 47 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-Markdown     2 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.90 %
-TSX          2 hrs 14 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+TSX          4 hrs 57 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.02 %
+Terraform    4 hrs 51 mins   █████░░░░░░░░░░░░░░░░░░░░   20.58 %
+JavaScript   4 hrs 21 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.42 %
+Markdown     2 hrs 44 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.62 %
+YAML         1 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
 ```
 
 <!--END_SECTION:waka-->
