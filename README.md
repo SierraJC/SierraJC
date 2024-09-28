@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML         19 hrs 17 mins  ███████████████▓░░░░░░░░░   63.32 %
-Terraform    2 hrs 31 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-unknown      1 hrs 50 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JavaScript   1 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
-TSX          0 hrs 54 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+YAML         13 hrs 54 mins  ██████████████▒░░░░░░░░░░   56.73 %
+Terraform    2 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.27 %
+unknown      1 hrs 48 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+JavaScript   1 hrs 27 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+TSX          0 hrs 54 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-->
